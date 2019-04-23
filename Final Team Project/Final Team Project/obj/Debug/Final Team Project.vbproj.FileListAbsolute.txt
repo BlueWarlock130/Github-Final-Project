@@ -1,2 +1,0 @@
-C:\Users\SBC00062\AppData\Local\Temporary Projects\Final Team Project\bin\Debug\Final Team Project.exe.config
-D:\Final Project\Final Team Project\Final Team Project\bin\Debug\Final Team Project.exe.config
