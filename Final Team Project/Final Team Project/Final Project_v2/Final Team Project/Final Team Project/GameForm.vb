@@ -348,4 +348,7 @@
         btnRoll4.Enabled = True
         btnRoll.Enabled = False
     End Sub
+' If intPlayer(etc) >= 31 Then
+' 
+
 End Class
